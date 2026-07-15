@@ -1,42 +1,33 @@
 <div align="center">
 
-# SARTHAK SINGH
+# Sarthak Singh
 
-### `SYSTEMS ONLINE — ENGINEERING INTELLIGENCE UNIT`
+### Software Engineer — AI Systems, Security Tooling & Developer Infrastructure
 
-```
-DIAGNOSTICS .......... MACHINE LEARNING · AI SYSTEMS · SECURITY TOOLING
-STATUS ............... OPERATIONAL
-ACTIVITY ............. 1,400+ CONTRIBUTIONS / TRAILING 12 MONTHS
-ACADEMIC ............. CGPA 9.86/10 · B.TECH CSE (AI/ML), SRM INSTITUTE
-```
+B.Tech Computer Science (AI & ML), SRM Institute of Science and Technology — CGPA 9.86/10
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Sarthak-47)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/sarthak-singh-612834292/)
-[![Email](https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:0906sarthak@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sarthak--47-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sarthak-47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak_Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-singh-612834292/)
+[![Email](https://img.shields.io/badge/Email-0906sarthak%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:0906sarthak@gmail.com)
 
 </div>
 
 <br>
 
-## `> SYSTEM_LOG`
+## About
 
-Computer Science undergraduate (AI & ML) with a builder's bias toward finishing — I take machine learning and security systems from research through deployment, not just prototype through demo. Grounded in classical CS fundamentals — data structures, algorithms, and competitive programming in C++ and Java — applied to real systems in Python, PyTorch, TensorFlow, and scikit-learn.
+I build complete systems end to end — from CLI engines and multi-agent architectures to production desktop and web applications. My focus is applied AI, security automation, and developer tooling, grounded in strong computer science fundamentals: data structures, algorithms, and competitive programming in C++ and Java, applied to real systems in Python, PyTorch, TensorFlow, and scikit-learn.
 
-I design and build complete systems end to end: from CLI engines and multi-agent architectures to production desktop and web front ends. Recent work spans an offline-first AI study companion (Mimir), an AI-driven security auditor pairing static analysis with autonomous exploit agents (ARGUS), and a local-first AI developer workspace unifying code, knowledge, and context (APEX) — with a growing focus on local-first, privacy-respecting AI architecture. Always open to collaborating with builders, researchers, and engineers on impactful ML and systems work.
+Recent work includes **ARGUS**, an AI-powered security auditor combining static analysis with a live multi-agent exploit engine; **Mimir**, an offline-first AI study companion built on a hybrid retrieval pipeline; and **APEX**, a local-first AI developer workspace unifying code, knowledge, and project context. I have a growing focus on local-first, privacy-respecting AI architecture, and I'm always open to collaborating with builders, researchers, and engineers on impactful ML and systems work.
 
-```
-[ ACTIVE BUILD ]   ARGUS — AI-powered security audit platform:
-                    static analysis + live multi-agent exploit engine
-[ RESEARCH      ]  GlofSense — GLOF detection & risk-assessment pipeline
-                    (Google Earth Engine, XGBoost, Monte Carlo simulation), SRM Institute
-[ REPOSITORIES ]   23 public
-[ LIFECYCLE     ]  ARCHITECTURE -> IMPLEMENTATION -> TESTING -> CI/CD -> RELEASE
-```
+- Selected for **Amazon ML Summer School 2026** — top 3,000 of 134,000+ applicants nationwide
+- Building **ARGUS**, an AI-powered security audit platform with a 16-agent live exploit engine
+- 1,400+ contributions in the past year across 23 public repositories
+- Comfortable owning a project across the full lifecycle: architecture, implementation, testing, CI/CD, and release
 
 <br>
 
-## `> ACTIVE_PROJECTS`
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -48,11 +39,13 @@ I design and build complete systems end to end: from CLI engines and multi-agent
 | [**Cortex**](https://github.com/Sarthak-47/Cortex) | Terminal-first development environment pairing a native PTY backend with multi-tab terminals, a code editor, file explorer, and source control in a single workspace. | TypeScript |
 | [**Abby**](https://github.com/Sarthak-47/Abby) | AI-powered mental wellness application providing anonymous, reflective conversational support with emotion tracking. | TypeScript |
 
+**Research — GlofSense:** An 8-phase glacial lake outburst flood (GLOF) detection and risk-assessment pipeline for Uttarakhand, built on Google Earth Engine (Sentinel-1/2, SRTM DEM). A self-supervised Random Forest model detected 1,078 glacial lakes at 10m resolution, and a 12-feature XGBoost classifier with leakage-free cross-validation identified 107 high-risk lakes, followed by a 50-member Monte Carlo flood simulation. Guided by Dr. Ushasukhanya S, SRM Institute of Science and Technology.
+
 <br>
 
-## `> SYSTEM_MODULES`
+## Technical Skills
 
-**LANGUAGES**
+**Languages**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -63,7 +56,7 @@ I design and build complete systems end to end: from CLI engines and multi-agent
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**WEB & BACKEND**
+**Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -74,14 +67,14 @@ I design and build complete systems end to end: from CLI engines and multi-agent
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
-**DATABASES**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**AI / MACHINE LEARNING**
+**AI / Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -94,7 +87,7 @@ I design and build complete systems end to end: from CLI engines and multi-agent
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1E1E1E?style=flat-square)
 
-**DEVOPS & PLATFORMS**
+**DevOps & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -105,51 +98,38 @@ I design and build complete systems end to end: from CLI engines and multi-agent
 
 <br>
 
-## `> ACHIEVEMENTS_&_CERTIFICATIONS`
+## Achievements & Certifications
 
-```
-AMAZON ML SUMMER SCHOOL 2026 ..... Selected: top 3,000 of 134,000+ applicants
-                                  8-module ML curriculum led by Amazon scientists
-BRITISH AIRWAYS .................. Data Science Job Simulation
-                                  Customer behaviour prediction, ML modelling
-BNY MELLON ....................... Spectrum Joint Certification Program (Engineering)
-                                  System design, DevSecOps, application lifecycle, scalability
-```
+- **Amazon ML Summer School 2026** — Selected among the top 3,000 of 134,000+ applicants nationwide; 8-module applied ML curriculum led by Amazon scientists
+- **British Airways** — Data Science Job Simulation: customer behaviour prediction and machine learning modelling
+- **BNY Mellon** — Spectrum Joint Certification Program (Engineering): system design, design patterns, AI/ML fundamentals, DevSecOps, application lifecycle, performance and scalability
 
 <br>
 
-## `> EDUCATION`
+## Education
 
 **S.R.M Institute of Science and Technology** — Chennai, India
 B.Tech, Computer Science and Engineering (AI/ML) · CGPA: 9.86/10 · Expected 2028
 
 <br>
 
-## `> OPERATIONAL_METRICS`
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-47&show_icons=true&count_private=true&hide_border=true&theme=cobalt" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-47&layout=compact&hide_border=true&theme=cobalt" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-47&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-47&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-47&hide_border=true&theme=cobalt" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-47&hide_border=true&theme=default" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-47&theme=react-dark&hide_border=true&area=true" alt="Commit Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-47&theme=minimal&hide_border=true&area=true" alt="Commit Activity Graph" />
 
 </div>
 
 <br>
 
-## `> COMMS_CHANNEL`
+## Get in Touch
 
-```
-GITHUB ..... github.com/Sarthak-47
-LINKEDIN ... linkedin.com/in/sarthak-singh-612834292
-EMAIL ...... 0906sarthak@gmail.com
-```
-
-<div align="center">
-
-`SYSTEM.PROFILE // END OF LOG`
-
-</div>
+- GitHub: [github.com/Sarthak-47](https://github.com/Sarthak-47)
+- LinkedIn: [linkedin.com/in/sarthak-singh-612834292](https://www.linkedin.com/in/sarthak-singh-612834292/)
+- Email: [0906sarthak@gmail.com](mailto:0906sarthak@gmail.com)
