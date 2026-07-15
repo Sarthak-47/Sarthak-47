@@ -117,12 +117,12 @@ B.Tech, Computer Science and Engineering (AI/ML) · CGPA: 9.86/10 · Expected 20
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-47&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-47&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-47&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-47&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-47&hide_border=true&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-47&hide_border=true&theme=dark" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-47&theme=minimal&hide_border=true&area=true" alt="Commit Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-47&theme=github-dark&hide_border=true&area=true" alt="Commit Activity Graph" />
 
 </div>
 
