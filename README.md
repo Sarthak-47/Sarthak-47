@@ -70,9 +70,6 @@ I design and build complete systems end to end — from CLI engines and multi-ag
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthak-47&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-47&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-47&hide_border=true&theme=default" alt="GitHub Streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-47&theme=minimal&hide_border=true&area=true" alt="Commit Activity Graph" />
