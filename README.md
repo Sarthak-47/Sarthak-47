@@ -5,6 +5,7 @@
 ### Software Engineer &nbsp;|&nbsp; AI Systems, Security Tooling & Developer Infrastructure
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sarthak--47-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sarthak-47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak_Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-singh-612834292/)
 [![Email](https://img.shields.io/badge/Email-0906sarthak%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:0906sarthak@gmail.com)
 
 </div>
@@ -70,6 +71,9 @@ I design and build complete systems end to end — from CLI engines and multi-ag
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarthak-47&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarthak-47&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-47&hide_border=true&theme=default" alt="GitHub Streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-47&theme=minimal&hide_border=true&area=true" alt="Commit Activity Graph" />
@@ -81,4 +85,5 @@ I design and build complete systems end to end — from CLI engines and multi-ag
 ## Get in Touch
 
 - GitHub: [github.com/Sarthak-47](https://github.com/Sarthak-47)
+- LinkedIn: [linkedin.com/in/sarthak-singh-612834292](https://www.linkedin.com/in/sarthak-singh-612834292/)
 - Email: [0906sarthak@gmail.com](mailto:0906sarthak@gmail.com)
